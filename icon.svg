@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="100" fill="#063d30"/>
+<circle cx="256" cy="256" r="222" fill="none" stroke="#d9ad4f" stroke-width="12"/>
+<path d="M256 340 C190 285 145 242 174 205 C201 170 239 194 256 215 C273 194 311 170 338 205 C367 242 322 285 256 340Z" fill="#e8c36b"/>
+<text x="256" y="390" text-anchor="middle" font-family="Georgia,serif" font-size="46" font-weight="bold" fill="#fff5d8">NOON</text>
+<text x="256" y="426" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#e8c36b">RISHTA</text>
+</svg>

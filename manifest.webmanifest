@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Noon Community Rishta",
+  "short_name": "Noon Rishta",
+  "description": "A respectful matrimonial community for every biradari.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#063d30",
+  "icons": [
+    {
+      "src": "./assets/noon-community-rishta-logo.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
